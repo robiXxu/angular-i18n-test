@@ -51,13 +51,6 @@
                   "maximumError": "5mb"
                 }
               ]
-            },
-            "ro": {
-              "aot": true,
-              "outputPath": "dist/out-tsc/",
-              "i18nFile": "src/locale/messages.ro.xlf",
-              "i18nFormat": "xlf",
-              "i18nLocale": "ro"
             }
           }
         },
@@ -69,9 +62,6 @@
           "configurations": {
             "production": {
               "browserTarget": "int1:build:production"
-            },
-            "ro": {
-              "browserTarget": "int1:build:ro"
             }
           }
         },
