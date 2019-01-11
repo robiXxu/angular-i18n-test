@@ -4,20 +4,12 @@
     <body>
       <trans-unit id="greeting" datatype="html">
         <source>Welcome !</source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/app.component.html</context>
-          <context context-type="linenumber">1</context>
-        </context-group>
         <note priority="1" from="meaning">A greeting sent to the user</note>
       </trans-unit>
-      <trans-unit id="301f0ed5003a7ef876118150219fd1429610a846" datatype="html">
+      <trans-unit id="random-message" datatype="html">
         <source>
           A random message
         </source>
-        <context-group purpose="location">
-          <context context-type="sourcefile">app/app.component.html</context>
-          <context context-type="linenumber">3</context>
-        </context-group>
       </trans-unit>
     </body>
   </file>
